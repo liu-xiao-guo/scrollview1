@@ -1,0 +1,17 @@
+{
+    "name": "scrollview1.liu-xiao-guo",
+    "description": "description of scrollview1",
+    "architecture": "@CLICK_ARCH@",
+    "title": "scrollview1",
+    "hooks": {
+        "scrollview1": {
+            "apparmor": "scrollview1/scrollview1.apparmor",
+            "desktop":  "scrollview1/scrollview1.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
